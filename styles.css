@@ -64,15 +64,11 @@ a:hover{
 }
 
 .top-cloud {
-  position: absolute;
-  left: 5%;
-  top: 5%;
+  
 }
 
 .bottom-cloud {
-  position: absolute;
-  top: 45%;
-  left: 50%;
+  
 }
 
 .title {
