@@ -63,6 +63,14 @@ a:hover{
   padding-bottom: 30px;
 }
 
+.top_cloud{
+  position: absolute;
+}
+
+.bottom-cloud{
+  position: absolute;	
+}
+
 .title {
 font-weight: normal;
 }
